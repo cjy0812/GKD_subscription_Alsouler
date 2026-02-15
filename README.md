@@ -1,5 +1,3 @@
-#实验仓库，别用！
-
 # @AIsouler/GKD_subscription
 
 ---
